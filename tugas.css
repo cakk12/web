@@ -1,0 +1,51 @@
+.container{
+    background-color: #452DAA;
+    min-height: 200px;
+    padding: 1%;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: Georgia;
+    font-size: 40px;
+}
+h4{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+img{
+    max-width: 250px;
+    border-radius: 225%;
+    height: auto;
+}
+.gambar{
+    text-align: center;
+    padding: 3%;
+}
+.t{
+    background-color: #452DAA;
+    min-height: 200px;
+    padding: 1%;
+}
+h5{
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    font-size: 20px; 
+}
+.h1{
+    color: black;
+}
+.sm{
+    text-align: center;
+    background-color: #646464;
+    display: grid;
+}
+.gbr{
+     width: 40px;
+    margin: 2px;
+    display: inline-block;
+    vertical-align: middle;
+}
